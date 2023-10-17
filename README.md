@@ -1,6 +1,7 @@
 # Startup Tindog Website (Design)
 
 Welcome to the Startup Tindog Website (Design) repository! Tindog is a fun and user-friendly concept design connecting dogs and their owners.
+<img width="1440" alt="Screenshot 2023-10-17 at 2 48 44 PM" src="https://github.com/FreeSpirit11/startup-tindog-website/assets/139609682/cc218230-917f-4955-a5dc-834270c1b1d4">
 
 ## About
 
